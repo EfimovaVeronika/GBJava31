@@ -14,7 +14,7 @@ package ru.home;
 
 import java.util.ArrayList;
 
-//+ pull request!!!!!!!!!!!!!!
+//+ pull request!!!!!!!!!!
 
 public class MainHomeWork_task3 {
 
